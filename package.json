@@ -1,0 +1,20 @@
+{
+  "name": "blocky",
+  "description": "blocky",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "yarn",
+    "start": "yarn run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MINECRAFTGOLDFISH3/Blocky.git"
+  },
+  "keywords": [],
+  "author": "MINECRAFTGOLDFISH3",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MINECRAFTGOLDFISH3/Blocky/issues"
+  },
+  "homepage": "https://github.com/MINECRAFTGOLDFISH3/Blocky"
+}
